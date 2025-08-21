@@ -1,4 +1,4 @@
-# Assignment_1
+# Placement Eligibility Dashboard
 Placement eligibility dashboard 
 📊 Placement Eligibility Dashboard An interactive Streamlit web application designed in Visual Studio Code, with a MySQL backend integrated via Python. SQL queries are executed through Jupyter Notebook, making it easy to filter, visualize, and export student placement data. Built to assist HR professionals in streamlining the student shortlisting process during campus placements.
 
